@@ -4,3 +4,6 @@ print(type("rea"))
 
 data =int(input("Enter Your data : "))
 
+
+d =1
+
